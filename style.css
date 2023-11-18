@@ -162,6 +162,7 @@ body {
 }
 
 .acceptBtn:hover {
+  transform: scale(1.1);
   background: #6b7fc5;
 }
 
